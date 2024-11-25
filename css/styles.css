@@ -2,7 +2,6 @@ body {
     font-family: "Roboto", sans-serif;
     background-color: #FFFFFF;
     color: #434455;
-    line-height: 1.5;
 }
 
 .logo {
@@ -75,7 +74,7 @@ ul {
     color: #fff;
 }
 
-.button-order {
+.button-orde {
     font-family: "Roboto", sans-serif;
     background-color: #4D5AE5;
     font-weight: 500;
@@ -87,7 +86,7 @@ ul {
 }
 
 .button-focus,
-.button-order:hover {
+.button-orde:hover {
     background-color: #404BBF;
 }
 
