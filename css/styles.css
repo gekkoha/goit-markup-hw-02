@@ -20,7 +20,7 @@ body {
 }
 
 a {
-text-decoration: none;
+    text-decoration: none;
 }
 
 ul {
@@ -29,7 +29,6 @@ ul {
 
 .nav-link {
     color: #2E2F42;
-    list-style-type: none;
     text-decoration: none;
     font-weight: 500;
     font-size: 16px;
@@ -55,11 +54,11 @@ ul {
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
-    list-style-type: none;
     text-decoration: none;
 }
+
 .page-addressmp:focus,
-.page-addressmp :hover {
+.page-addressmp:hover {
     color: #404BBF;
 }
 
@@ -78,22 +77,15 @@ ul {
 
 .button-order {
     font-family: "Roboto", sans-serif;
-    border-radius: 4px;
-    padding: 16px 32px;
-    min-width: 169px;
-    line-height: 56px;
-    background-color: #4d5ae5;
+    background-color: #4D5AE5;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
     cursor: pointer;
-    margin-top: auto;
-    margin-left: auto;
-    margin-right: auto;
-    border: none;
 }
+
 .button-focus,
 .button-order:hover {
     background-color: #404BBF;
@@ -104,7 +96,7 @@ ul {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: #2E2F42;
 }
 
 .features-ptxt {
@@ -125,7 +117,7 @@ ul {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #2e2f42;
+    color: #2E2F42;
     text-transform: capitalize;
 }
 
@@ -139,7 +131,7 @@ ul {
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #2e2f42;
+    color: #2E2F42;
 }
 
 .p-icon {
