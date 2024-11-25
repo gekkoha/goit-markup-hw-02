@@ -41,7 +41,7 @@ ul {
 }
 
 .nav-link:active {
-    color: #404BBF;
+    color: #404bbf;
 }
 
 .page-address {
@@ -285,3 +285,14 @@ ul {
     color: #404bbf;
 
 }
+<<<<<<< Updated upstream
+=======
+.portfolio {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color:#2e2f42;
+}
+>>>>>>> Stashed changes
