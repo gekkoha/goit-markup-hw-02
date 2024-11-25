@@ -200,6 +200,7 @@ ul {
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
+    
 }
 
 .nav-link:hover {
@@ -230,7 +231,10 @@ ul {
 }
 
 .section-first {
+    padding-top:72px;
     background-color: #2E2F42;
+    width: 1440px;
+    height: 600px;
 }
 
 .section-text {
@@ -284,4 +288,27 @@ ul {
     letter-spacing: 0.02em;
     color: #404bbf;
 
+}
+.footer-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+
+
+}
+.span-logo {
+    color:#f4f4fd;
+}
+.pfoot {
+    color: #F4F4FD;
+    letter-spacing: 0.02em
+
+
+}
+.footerf {
+    background-color:#2E2F42;
 }
