@@ -10,7 +10,7 @@ body {
     font-weight: 700;
     font-size: 18px;
     text-transform: uppercase;
-    color: #4D5AE5;
+    color: #404BBF;
     line-height: 1.17;
     letter-spacing: 0.03em;
 }
@@ -41,7 +41,7 @@ ul {
 }
 
 .nav-link:active {
-    color: #404bbf;
+    color: #404BBF;
 }
 
 .page-address {
@@ -285,14 +285,3 @@ ul {
     color: #404bbf;
 
 }
-<<<<<<< Updated upstream
-=======
-.portfolio {
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color:#2e2f42;
-}
->>>>>>> Stashed changes
