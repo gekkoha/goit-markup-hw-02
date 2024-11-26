@@ -34,6 +34,11 @@ ul {
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
+    letter-spacing: 0.02em
+}
+
+.nav-link:focus {
+    color: #404BBF;
 }
 
 .nav-link:hover {
@@ -58,8 +63,14 @@ ul {
     list-style-type: none;
     text-decoration: none;
 }
-.page-addressmp:focus,
-.page-addressmp :hover {
+
+.address-link:focus {
+    color: #404bbf
+}
+
+
+
+.address-link:hover {
     color: #404BBF;
 }
 
@@ -78,8 +89,6 @@ ul {
 
 .button-order {
     font-family: "Roboto", sans-serif;
-    border-radius: 4px;
-    padding: 16px 32px;
     min-width: 169px;
     line-height: 56px;
     background-color: #4d5ae5;
@@ -94,7 +103,10 @@ ul {
     margin-right: auto;
     border: none;
 }
-.button-focus,
+.button-order:focus {
+    background-color: #404BBF
+}
+
 .button-order:hover {
     background-color: #404BBF;
 }
@@ -115,11 +127,11 @@ ul {
     color: #434455;
 }
 
-.page-section-3 {
+.page-section-three {
     background-color: #F4F4FD;
 }
 
-.last-section h2 {
+.section-team {
     background-color: #FFFFFF;
     font-weight: 700;
     font-size: 36px;
@@ -131,7 +143,7 @@ ul {
 }
 
 
-.page-txt-bord {
+.page-text-bord li {
     background-color: #FFFFFF;
 }
 
@@ -151,6 +163,16 @@ ul {
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
+}
+
+.text-portfolio {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .sec-main-txt {
